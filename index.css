@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(202, 219, 233);
+
+} 
+.Card {
+    height: 350px;
+    display: flex;
+}
+button {
+    color: black;
+    display: flex;
+}
